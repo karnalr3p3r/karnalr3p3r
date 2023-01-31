@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @karnalr3p3r
-- 😃 Also Known as Jacob Devereaux
+- 👋 Hi, I’m Jacob Devereaux
+- 😃 Also Known as @karnalr3p3r 
 - 👀 I’m interested in ... video games and figuring out how things work
 - 🌱 I’m currently learning ... software development and design
 - 💞️ I’m looking to collaborate on ... video game projects
