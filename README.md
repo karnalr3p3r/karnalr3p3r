@@ -2,7 +2,7 @@
 - 😃 Also Known as @karnalr3p3r 
 - 👀 I’m interested in ... video games and figuring out how things work
 - 🌱 I’m currently learning ... software development and design
-- 💞️ I’m looking to collaborate on ... video game projects
+- 💞️ I’m looking to collaborate on ... any web development projects
 - 📫 How to reach me ... devereauxma97@gmail.com
 
 <!---
